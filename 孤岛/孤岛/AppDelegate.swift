@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  孤岛
 //
-//  Created by 熊鹏昊 on 2017/8/9.
+//  Created by FelixXiong on 2017/8/9.
 //  Copyright © 2017年 com.storypanda. All rights reserved.
 //
 
